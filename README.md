@@ -1,4 +1,4 @@
-# gestao-usuarios
+# Gestao de usuários
 
 Projeto de gestão de usuários usando Python e Flask
 
