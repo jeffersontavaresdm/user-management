@@ -1,5 +1,6 @@
 from flask import Flask
-from configuration import configure_all
+
+from config.configuration import configure_all
 
 app = Flask(__name__)
 

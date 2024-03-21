@@ -1,6 +1,9 @@
-from peewee import Model, CharField, DateTimeField
-from database.database import db
 import datetime
+
+from peewee import Model, CharField, DateTimeField
+
+from database.database import db
+
 
 class Cliente(Model):
     nome = CharField()
